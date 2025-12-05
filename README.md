@@ -16,9 +16,4 @@
 
   <br>
 
-  <!-- 4. 统计卡片 (重点：让它们并排显示！) -->
-  <!-- 这里的 height=180 是关键，限制高度让它们能在一行显示 (屏幕窄时会自动换行) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=h465855hgg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h465855hgg&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" alt="languages" />
-
 </div>
