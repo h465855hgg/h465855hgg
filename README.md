@@ -9,20 +9,14 @@
   <p>一名正在努力变强的开发者 🚀</p>
 
   <!-- 3. 技术栈 -->
-  <p>
-    <img src="https://img.shields.io/badge/kotlin-000000?style=flat-square&logo=kotlin&logoColor=white" />
+  
+<!-- 3. 技术栈 -->
+<p align="center">
+  <img src="https://img.shields.io/badge/kotlin-000000?style=flat-square&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
+</p>
 
-
-<img
-src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
-
-<img
-    src="https://img.shields.io/badge/Jetpack%20Compose-1.6%2B-3DDC84?style=for-the-badge&logo=jetpack-compose&logoColor=white"
-    alt="Jetpack Compose 1.6+"
-  />
-
-
-  </p>
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
