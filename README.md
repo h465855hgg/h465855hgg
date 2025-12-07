@@ -20,6 +20,16 @@ src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor
     src="https://img.shields.io/badge/Jetpack%20Compose-1.6%2B-3DDC84?style=for-the-badge&logo=jetpack-compose&logoColor=white"
     alt="Jetpack Compose 1.6+"
   />
+
+<p align="center">
+  <img
+    src="https://developer.android.com/images/kit/compose-logo.svg"
+    width="120"
+    alt="Jetpack Compose"
+  />
+</p>
+
+
   </p>
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
