@@ -16,7 +16,10 @@
 <img
 src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
 
-
+<img
+    src="https://img.shields.io/badge/Jetpack%20Compose-1.6%2B-3DDC84?style=for-the-badge&logo=jetpack-compose&logoColor=white"
+    alt="Jetpack Compose 1.6+"
+  />
   </p>
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
@@ -33,12 +36,3 @@ src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor
 
 <img src="https://count.getloli.com/get/@h465855hgg.github.readme?theme=minecraft" style=" display: block; margin-left: auto; margin-right: auto; height: 160px"/>
 
-![Static Badge](https://simpleicons.org/icons/jetpackcompose.svg)
-
-<!-- Jetpack Compose Icon -->
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/Jetpack%20Compose-1.6%2B-3DDC84?style=for-the-badge&logo=jetpack-compose&logoColor=white"
-    alt="Jetpack Compose 1.6+"
-  />
-</p>
