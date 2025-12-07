@@ -33,6 +33,5 @@ src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor
 
 <img src="https://count.getloli.com/get/@h465855hgg.github.readme?theme=minecraft" style=" display: block; margin-left: auto; margin-right: auto; height: 160px"/>
 
-![Static Badge](https://img.shields.io/badge/compose)
-
+![Static Badge](https://simpleicons.org/icons/jetpackcompose.svg)
 
