@@ -23,20 +23,20 @@ src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor
 
 <p align="center">
   <img
-    src="https://developer.android.com/images/kit/compose-logo.svg"
+    src="https://logo.svgcdn.com/l/jetpackcompose-original.svg"
     width="120"
     alt="Jetpack Compose"
   />
 </p>
-
-
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/android/compose-samples/main/.idea/icons/compose-logo.svg"
+    src="https://www.streamlinehq.com/icons/download/svg/jetpack-compose-logo--14753.svg"
     width="120"
     alt="Jetpack Compose"
   />
 </p>
+
+
 
 
   </p>
