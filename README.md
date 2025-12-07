@@ -21,23 +21,6 @@ src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor
     alt="Jetpack Compose 1.6+"
   />
 
-<p align="center">
-  <img
-    src="https://logo.svgcdn.com/l/jetpackcompose-original.svg"
-    width="120"
-    alt="Jetpack Compose"
-  />
-</p>
-<p align="center">
-  <img
-    src="https://www.streamlinehq.com/icons/download/svg/jetpack-compose-logo--14753.svg"
-    width="120"
-    alt="Jetpack Compose"
-  />
-</p>
-
-
-
 
   </p>
 
