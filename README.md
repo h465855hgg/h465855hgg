@@ -12,6 +12,7 @@
   <p>
     <img src="https://img.shields.io/badge/kotlin-000000?style=flat-square&logo=kotlin&logoColor=white" />
 
+
 <img
 src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
 
@@ -31,5 +32,7 @@ src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor
 ![GitHub Sats](https://github-readme-stats-one-bice.vercel.app/api?username=h465855hgg&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
 <img src="https://count.getloli.com/get/@h465855hgg.github.readme?theme=minecraft" style=" display: block; margin-left: auto; margin-right: auto; height: 160px"/>
+
+![Static Badge](https://img.shields.io/badge/compose)
 
 
