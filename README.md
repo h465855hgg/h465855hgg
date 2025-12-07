@@ -11,7 +11,9 @@
   <!-- 3. 技术栈 -->
   <p>
     <img src="https://img.shields.io/badge/kotlin-000000?style=flat-square&logo=kotlin&logoColor=white" />
-[Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+
+<img
+src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
 
 
   </p>
