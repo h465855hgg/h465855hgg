@@ -24,3 +24,6 @@
 </div>
 
 ![GitHub Sats](https://github-readme-stats-one-bice.vercel.app/api?username=h465855hgg&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+
+img src="https://count.getloli.com/get/@h465855hgg.github.readme?theme=minecraft" style=" display: block; margin-left: auto; margin-right: auto; height: 160px"/>
+
