@@ -30,6 +30,15 @@ src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor
 </p>
 
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/android/compose-samples/main/.idea/icons/compose-logo.svg"
+    width="120"
+    alt="Jetpack Compose"
+  />
+</p>
+
+
   </p>
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
