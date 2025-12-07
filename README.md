@@ -35,6 +35,10 @@ src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor
 
 ![Static Badge](https://simpleicons.org/icons/jetpackcompose.svg)
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/jetpackcompose.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v16/icons/jetpackcompose.svg" />
-
+<!-- Jetpack Compose Icon -->
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Jetpack%20Compose-1.6%2B-3DDC84?style=for-the-badge&logo=jetpack-compose&logoColor=white"
+    alt="Jetpack Compose 1.6+"
+  />
+</p>
