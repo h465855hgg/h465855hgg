@@ -43,7 +43,3 @@
 
 </div>
 
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/h465855hgg/h465855hgg/output/github-contribution-grid-snake-dark.svg" />
-</p>
