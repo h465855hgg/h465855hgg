@@ -40,4 +40,10 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=h465855hgg&theme=rogue&days=60" />
   </p>
 
+
 </div>
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/h465855hgg/h465855hgg/output/github-contribution-grid-snake-dark.svg" />
+</p>
