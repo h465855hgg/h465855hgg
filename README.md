@@ -19,8 +19,6 @@
   <!-- 4. 技术栈 Icons -->
   <p>
     <img src="https://skillicons.dev/icons?i=lua,kotlin,cpp,qt,androidstudio,blender" />
-    <img src="https://stone.professorlee.work/api/stone/h465855hgg/WebIDE" alt="Stone Badge" width="200" />
-
   </p>
 
   <!-- 5. 统计数据 (Stats) -->
