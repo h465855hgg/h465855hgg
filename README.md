@@ -8,6 +8,7 @@
   <!-- 2. 简介 -->
   <p>一名正在努力变强的开发者 🚀</p>
 
+
   <!-- 3. 技术栈 Badges -->
   <p>
     <img src="https://img.shields.io/badge/kotlin-000000?style=flat-square&logo=kotlin&logoColor=white"/>
@@ -18,6 +19,8 @@
   <!-- 4. 技术栈 Icons -->
   <p>
     <img src="https://skillicons.dev/icons?i=lua,kotlin,cpp,qt,androidstudio,blender" />
+    <img src="https://stone.professorlee.work/api/stone/h465855hgg/WebIDE" alt="Stone Badge" width="200" />
+
   </p>
 
   <!-- 5. 统计数据 (Stats) -->
