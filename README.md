@@ -25,5 +25,5 @@
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=RRZT%20Online&fontSize=50&fontAlignY=40&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=h465855hgg%20Online&fontSize=50&fontAlignY=40&animation=twinkling" width="100%" />
 
