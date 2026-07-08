@@ -9,7 +9,7 @@
 <table align="center">
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h465855hgg&theme=github_dark"  width="810"/>
+      <img src="https://raw.githubusercontent.com/h465855hgg/h465855hgg/main/profile-summary-card-output/dark/0-profile-details.svg"  width="810"/>
     </td>
   </tr>
   <tr>
