@@ -1,2 +1,27 @@
-- name: GitHub-Profile-Summary-Cards
-  uses: vn7n24fzkq/github-profile-summary-cards@v0.7.0
+name: Generate Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "5 0 * * *"        # 和你现有工作流保持相同触发时间
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-cards:
+    runs-on: ubuntu-latest
+    name: generate-profile-summary-cards
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: GitHub-Profile-Summary-Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@v0.7.0
+        env:
+          # ⚠️ 注意：这里用一个新的密秘名，不要和现有的 ACCESS_TOKEN 混淆
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"        # 推送到 main 分支（你的现有工具推送到 generated）
+          UTC_OFFSET: 8
+          AUTO_PUSH: true
