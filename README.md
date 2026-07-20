@@ -1,5 +1,6 @@
 
 # Hello there 👋
+:trollface: :bowtie: :neckbeard: :octocat: :shipit: :fishsticks: :feelsgood: :finnadie: :goberserk: :godmode: :suspect: :hurtrealbad: :rage1: :rage2: 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=h465855hgg.h465855hgg)
 <img src="https://img.shields.io/github/followers/h465855hgg?label=Followers&style=social" />
